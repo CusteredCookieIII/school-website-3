@@ -1,0 +1,27 @@
+#menu{
+    font-size: 20px;
+    color: black;
+    position:fixed;
+    top: 10px;
+    left: 30px;
+    list-style: none;
+}
+
+.links{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: right;
+    background-color: gray;
+
+}
+
+body{
+    background-color:gray ;
+}
+
+.text{
+    color: white;
+    font-size: 50px;
+}
